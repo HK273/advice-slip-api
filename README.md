@@ -12,7 +12,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/advice-generator-light-dark-toggle-r1K1ZtVFuk)
 - [Live Site](https://hk273.github.io/advice-slip-api/)
 
 ### Useful Resources
